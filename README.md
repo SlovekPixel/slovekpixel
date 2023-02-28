@@ -18,10 +18,10 @@
 
 ## Навыки и умения
 
-| **Стек технологий** | *JavaScript(ES6), TypeScript, Node.js, Nest.js, WebSocket, Git, Docker, Docker-compose, HTML, CSS, SCSS, React, C++, Pascal.* |
+| **Стек технологий** | *JavaScript(ES6), TypeScript, Node.js, Nest.js, WebSocket, Git, Docker, Docker-compose, HTML, CSS, SCSS, React, C++, Qt + QML, Pascal.* |
 |---------------------|----------------------------------------------------------------------------------------------------------------------|
 | **Операционные системы** | *Windows, Ubuntu* | 
 | **DataBases** | *PostgreSQL, MongoDB, Redis* | 
 | **Тестирование** | *Jest, Mocha, Chai* | 
-| **Доп. навыки** | *Деплой, настройка Nginx* |
-| **Английский** | *intermediate* |
+| **Доп. навыки** | *Деплой, настройка Nginx* | 
+| **Английский** | *intermediate* | 
