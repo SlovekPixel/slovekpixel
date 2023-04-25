@@ -4,7 +4,12 @@
 
 ## Проекты
 
-* #### Отсутствуют.
+* ### Музыкальный стриминговый сервис
+    * [Деплой сайт](https://github.com/choodofire) 
+    * [Frontend на React, Tailwind, SCSS](https://github.com/choodofire)
+    * [Backend на NestJS, хранение данных Postgres](https://github.com/choodofire/MusicService-NestJS-API)
+
+* #### [Микросервис на gRPC для организации распределенных блокировок + Redis](https://github.com/choodofire/shared_storage_redis)
 
 ## Образование
 
@@ -12,15 +17,15 @@
     * Специальность: КОМПЬЮТЕРНЫЕ СИСТЕМЫ И СЕТИ (ИУ6).
     * Направление: 09.03.03 - Прикладная информатика.
 
-* #### МГТУ ИМ. Н.Э. БАУМАНА Информатика и Системы управления (Магистр) | 2022-Н.В.
+* #### МГТУ ИМ. Н.Э. БАУМАНА Информатика и Системы управления (Магистратура) | 2022-Н.В.
     * Специальность: КОМПЬЮТЕРНЫЕ СИСТЕМЫ И СЕТИ (ИУ6).
     * Направление: 09.04.01/12 - Интеллектуальный анализ больших данных в системах поддержки принятия решений.
 
 ## Навыки и умения
 
-| **Стек технологий** | *JavaScript(ES6), TypeScript, Node.js, Nest.js, WebSocket, Git, Docker, Docker-compose, HTML, CSS, SCSS, React, C++, Pascal.* |
+| **Стек технологий** | *JavaScript, TypeScript, Node.js, Nest.js, Git, Docker, Docker-compose, HTML, CSS, SCSS, React, Tailwind, C++.* |
 |---------------------|----------------------------------------------------------------------------------------------------------------------|
-| **Операционные системы** | *Windows, Ubuntu* | 
+| **Операционные системы** | *Ubuntu, Windows* | 
 | **DataBases** | *PostgreSQL, MongoDB, Redis* | 
 | **Тестирование** | *Jest* | 
 | **Доп. навыки** | *Деплой, настройка Nginx, Figma* | 
