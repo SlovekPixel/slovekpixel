@@ -5,9 +5,7 @@
 ## Проекты
 
 * ### Музыкальный стриминговый сервис
-    * [Деплой сайт](https://github.com/choodofire) 
-    * [Frontend на React, Tailwind, SCSS](https://github.com/choodofire/MusicService-React-Front)
-    * [Backend на NestJS, хранение данных Postgres](https://github.com/choodofire/MusicService-NestJS-API)
+    * [Backend на NestJS, 2+ микросервиса(Core, Account, ...), хранение данных Postgres, брокер RabbitMQ](https://github.com/choodofire/MusicService-NestJS-API)
 
 * #### [Микросервис на gRPC для организации распределенных блокировок + Redis](https://github.com/choodofire/shared_storage_redis)
 
