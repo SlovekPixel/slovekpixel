@@ -4,10 +4,13 @@
 
 ## Проекты
 
-* ### Музыкальный стриминговый сервис
-    * [Backend на NestJS, 2+ микросервиса(Core, Account, ...), хранение данных Postgres, брокер RabbitMQ](https://github.com/choodofire/MusicService-NestJS-API)
-
 * #### [Микросервис на gRPC для организации распределенных блокировок + Redis](https://github.com/choodofire/shared_storage_redis)
+
+* #### [Сервис производственного календаря по REST API для работы с датами рабочих/выходных дней + SQLite](https://github.com/choodofire/worker-calendar)
+
+* ### Музыкальный стриминговый сервис
+    * [Backend на NestJS, хранение данных Postgres](https://github.com/choodofire/MusicService-NestJS-API)
+
 
 ## Образование
 
@@ -21,10 +24,10 @@
 
 ## Навыки и умения
 
-| **Стек технологий** | *JavaScript, TypeScript, Node.js, Nest.js, Git, Docker, Docker-compose, HTML, CSS, SCSS, React, Tailwind, C++.* |
+| **Стек технологий** | *JavaScript, TypeScript, Python, Node.js, Nest.js, Git, Docker, Docker-compose, HTML, CSS, SCSS, React, C++.* |
 |---------------------|----------------------------------------------------------------------------------------------------------------------|
-| **Операционные системы** | *Ubuntu, Windows* | 
-| **DataBases** | *PostgreSQL, MongoDB, Redis* | 
+| **Операционные системы** | *Windows, Kali* | 
+| **DataBases** | *PostgreSQL, MongoDB, SQLite, Redis* | 
 | **Тестирование** | *Jest* | 
 | **Доп. навыки** | *Деплой, настройка Nginx, Figma* | 
 | **Английский** | *intermediate* | 
