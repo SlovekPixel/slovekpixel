@@ -4,13 +4,19 @@
 
 ## Проекты
 
-* #### [Микросервис на gRPC для организации распределенных блокировок + Redis](https://github.com/choodofire/shared_storage_redis)
+* #### [shared_storage](https://github.com/choodofire/shared_storage)
+  Автономный сервис на базе redis для обеспечения быстрого хранения данных по принципу ttl через grpc. Может использоваться для сброса данных сессий и состояний объектов, в качестве некоего межсервисного сетевого мьютекса, а также в других сценариях.
 
-* #### [Сервис производственного календаря по REST API для работы с датами рабочих/выходных дней + SQLite](https://github.com/choodofire/worker-calendar)
+* #### [work_calendar](https://github.com/choodofire/work_calendar)
+  Сервис на базе SQLite, предоставляющий предварительно настроенный рабочий календарь с http-транспортом для работы с датами выходных дней.
 
-* ### Музыкальный стриминговый сервис
-    * [Backend на NestJS, хранение данных Postgres](https://github.com/choodofire/MusicService-NestJS-API)
+* ### MusicService 
+   * #### [MusicService_API](https://github.com/choodofire/MusicService_API)
+     Бекенд стримингового сервиса для прослушивания музыкальных композиций, NestJS, хранение данных Postgres.
 
+
+* #### [store_template](https://github.com/choodofire/store_template)
+   Шаблон магазина на базе ExpressJS и MongoDB, позволяющий размещать товары для продажи. 
 
 ## Образование
 
