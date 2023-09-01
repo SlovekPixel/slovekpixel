@@ -4,19 +4,22 @@
 
 ## Проекты
 
+* #### [ auth_service](https://github.com/choodofire/auth_service)
+  Сервис с HTTP транспортом на базе PostgreSQL для реализации авторизации.
+
 * #### [shared_storage](https://github.com/choodofire/shared_storage)
   Автономный сервис на базе redis для обеспечения быстрого хранения данных по принципу ttl через grpc. Может использоваться для сброса данных сессий и состояний объектов, в качестве некоего межсервисного сетевого мьютекса, а также в других сценариях.
 
 * #### [work_calendar](https://github.com/choodofire/work_calendar)
   Сервис на базе SQLite, предоставляющий предварительно настроенный рабочий календарь с http-транспортом для работы с датами выходных дней.
 
+* #### [store_template](https://github.com/choodofire/store_template)
+  Шаблон магазина на базе ExpressJS и MongoDB, позволяющий размещать товары для продажи. 
+
 * ### MusicService 
    * #### [MusicService_API](https://github.com/choodofire/MusicService_API)
      Бекенд стримингового сервиса для прослушивания музыкальных композиций, NestJS, хранение данных Postgres.
 
-
-* #### [store_template](https://github.com/choodofire/store_template)
-   Шаблон магазина на базе ExpressJS и MongoDB, позволяющий размещать товары для продажи. 
 
 ## Образование
 
@@ -30,9 +33,9 @@
 
 ## Навыки и умения
 
-| **Стек технологий** | *JavaScript, TypeScript, Python, Node.js, Nest.js, Git, Docker, Docker-compose, HTML, CSS, SCSS, React, C++.* |
+| **Стек технологий** | *JavaScript, TypeScript, Python3, Go, Elixir, Node.js, Nest.js, Git, Docker, Docker-compose, HTML, CSS, C++.* |
 |---------------------|----------------------------------------------------------------------------------------------------------------------|
-| **Операционные системы** | *Windows, Kali* | 
+| **Операционные системы** | *Windows, Debian* | 
 | **DataBases** | *PostgreSQL, MongoDB, SQLite, Redis* | 
 | **Тестирование** | *Jest* | 
 | **Доп. навыки** | *Деплой, настройка Nginx, Figma* | 
