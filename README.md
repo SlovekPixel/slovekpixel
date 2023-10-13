@@ -14,7 +14,7 @@
   Сервис на базе SQLite, предоставляющий предварительно настроенный рабочий календарь с http-транспортом для работы с датами выходных дней.
 
 * #### [store_template](https://github.com/choodofire/store_template)
-  Шаблон магазина на базе ExpressJS и MongoDB, позволяющий размещать товары для продажи. 
+  Шаблон магазина на ExpressJS и MongoDB, позволяющий размещать товары для продажи. 
 
 * ### MusicService 
    * #### [MusicService_API](https://github.com/choodofire/MusicService_API)
@@ -33,7 +33,7 @@
 
 ## Навыки и умения
 
-| **Стек технологий** | *JavaScript, TypeScript, Python3, Go, Elixir, Node.js, Nest.js, Git, Docker, Docker-compose, HTML, CSS, C++.* |
+| **Стек технологий** | *JavaScript, TypeScript, Python3, Elixir, Node.js, Nest.js, Git, Docker, Docker-compose, HTML, CSS, C++.* |
 |---------------------|----------------------------------------------------------------------------------------------------------------------|
 | **Операционные системы** | *Windows, Debian* | 
 | **DataBases** | *PostgreSQL, MongoDB, SQLite, Redis* | 
