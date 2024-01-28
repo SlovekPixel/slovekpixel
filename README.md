@@ -8,19 +8,19 @@
   Сервис на базе PostgreSQL для реализации авторизации. 
 
 * #### [shared_storage](https://github.com/choodofire/shared_storage)
-  Автономный сервис на базе Redis для обеспечения быстрого хранения данных по принципу ttl через grpc. Может использоваться для сброса данных сессий и состояний объектов, в качестве некоего межсервисного сетевого мьютекса, а также в других сценариях.
+  Автономный сервис на базе Redis для обеспечения быстрого хранения данных по принципу ttl через grpc. Может использоваться для сброса данных сессий и состояний объектов, в качестве некоего межсервисного сетевого мьютекса.
 
 * #### [sign_lang_learner](https://github.com/choodofire/sign_lang_learner).
-  Веб-приложение с элементами геймификации, позволяющее пользователям изучать жестовый язык с помощью обучающих видео. Клиент улучшает знания с помощью тестов, после завершения которых ему будет представлена статистика занятия. Поставленная цель достигается средствами СУБД MySQL, среда для работы с базами данных phpmyadmin, веб-фреймворка Laravel. 
+  Веб-приложение для изучения жестового языка. Laravel, MySQL, phpmyadmin. 
 
 * #### [work_calendar](https://github.com/choodofire/work_calendar)
   Сервис на базе SQLite, предоставляющий предварительно настроенный рабочий календарь с http-транспортом для работы с датами.
 
 * #### [nx_nestjs_rmq](https://github.com/choodofire/nx_nestjs_rmq)
-  Пример реализации микросервисов на NestJS + RabbitMQ с использованием монорепозитория NX. С применением паттерна Saga и CQRS. 
+  Пример реализации микросервисов на NestJS + RabbitMQ с использованием NX.  
 
 * #### [store_template](https://github.com/choodofire/store_template)
-  Шаблон магазина на ExpressJS и MongoDB. 
+  Шаблон магазина на ExpressJS + MongoDB. 
 
 * ### MusicService 
    * #### [MusicService_API](https://github.com/choodofire/MusicService_API)
@@ -38,12 +38,12 @@
 
 ## Навыки и умения
 
-| **Стек технологий** | *JavaScript, TypeScript, Python3, Node.js, Nest.js, Docker, Docker-compose, Elixir, HTML, CSS, C++.* |
+| **Стек технологий** | *JavaScript, TypeScript, Node.js, AdonisJS, Nest.js, Python, Docker, Docker-compose, HTML, CSS, C++.* |
 |---------------------|----------------------------------------------------------------------------------------------------------------------|
 | **Операционные системы** | *Windows, Debian* | 
-| **DataBases** | *PostgreSQL, MongoDB, SQLite, Redis, Cassandra, Neo4J* | 
+| **DataBases** | *PostgreSQL, MongoDB, SQLite, Redis, Neo4J* | 
 | **Тестирование** | *Jest, Mocha, Chai, Pytest* | 
-| **Доп. навыки** | *Деплой, настройка Nginx, Figma, RabbitMQ, Kafka* | 
+| **Доп. навыки** | *Деплой, настройка Nginx, Figma, RabbitMQ, BullMQ* | 
 | **Английский** | *intermediate* | 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choodofire&layout=compact&theme=buefy&hide_border=true)
