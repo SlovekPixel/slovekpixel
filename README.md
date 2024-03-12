@@ -13,19 +13,6 @@
 * #### [sign_lang_learner](https://github.com/choodofire/sign_lang_learner).
   Веб-приложение для изучения жестового языка. Laravel, MySQL, phpmyadmin. 
 
-* #### [work_calendar](https://github.com/choodofire/work_calendar)
-  Сервис на базе SQLite, предоставляющий предварительно настроенный рабочий календарь с http-транспортом для работы с датами.
-
-* #### [nx_nestjs_rmq](https://github.com/choodofire/nx_nestjs_rmq)
-  Пример реализации микросервисов на NestJS + RabbitMQ с использованием NX.  
-
-* #### [store_template](https://github.com/choodofire/store_template)
-  Шаблон магазина на ExpressJS + MongoDB. 
-
-* ### MusicService 
-   * #### [MusicService_API](https://github.com/choodofire/MusicService_API)
-     Бекенд стримингового сервиса для хранения музыкальных композиций. NestJS, Postgres.
-
 ## Образование
 
 * #### МГТУ ИМ. Н.Э. БАУМАНА Информатика и Системы управления (Бакалавриат) | 2018-2022
@@ -42,7 +29,7 @@
 |---------------------|----------------------------------------------------------------------------------------------------------------------|
 | **Операционные системы** | *Windows, Debian* | 
 | **DataBases** | *PostgreSQL, MongoDB, SQLite, Redis, Neo4J* | 
-| **Тестирование** | *Jest, Mocha, Chai, Pytest* | 
+| **Тестирование** | *Jest, Mocha, Chai* | 
 | **Доп. навыки** | *Деплой, настройка Nginx, Figma, RabbitMQ, BullMQ* | 
 | **Английский** | *intermediate* | 
 
