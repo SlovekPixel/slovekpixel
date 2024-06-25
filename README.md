@@ -4,12 +4,6 @@
 
 ## Проекты
 
-* #### [shared_storage](https://github.com/choodofire/shared_storage)
-  Автономный сервис на базе Redis для обеспечения быстрого хранения данных по принципу ttl. Может использоваться для сброса данных сессий и состояний объектов, в качестве некоего межсервисного сетевого мьютекса.
-
-* #### [ auth_service](https://github.com/choodofire/auth_service)
-  Сервис на базе PostgreSQL для реализации авторизации. 
-
 * #### [sign_lang_learner](https://github.com/choodofire/sign_lang_learner).
   Веб-приложение для изучения жестового языка. Laravel, MySQL, phpmyadmin. 
 
