@@ -1,11 +1,14 @@
 # Гордеев Вячеслав Александрович
 
-Москва | ResSlavkaRes@mail.ru | [Telegram](https://t.me/slovekpixel) | [GitHub](https://github.com/choodofire) | 26.09.2000
+Москва | ResSlavkaRes@mail.ru | [Telegram](https://t.me/slovekpixel) | [GitHub](https://github.com/slovekpixel) | 26.09.2000
 
 ## Проекты
 
-* #### [sign_lang_learner](https://github.com/choodofire/sign_lang_learner).
-  Веб-приложение для изучения жестового языка. Laravel, MySQL, phpmyadmin. 
+* #### [shared_storage](https://github.com/slovekpixel/shared_storage)
+  Сервис на базе Redis и PostgreSQL для обеспечения быстрого хранения данных на основе ttl через grpc. 
+
+* #### [sign_lang_learner](https://github.com/slovekpixel/sign_lang_learner)
+  Веб-приложение для изучения жестового языка. Laravel, MySQL, phpmyadmin.
 
 ## Образование
 
@@ -19,12 +22,11 @@
 
 ## Навыки и умения
 
-| **Стек технологий** | *JavaScript, TypeScript, Node.js, AdonisJS, Nest.js, Python, Docker, Docker-compose, C++.* |
+| **Стек технологий** | *JavaScript, TypeScript, Node.js, AdonisJS, Python, Docker, Docker-compose, C++.* |
 |---------------------|----------------------------------------------------------------------------------------------------------------------|
-| **Операционные системы** | *Windows, Debian* | 
 | **DataBases** | *PostgreSQL, MongoDB, ManticoreSearch, Redis* | 
 | **Тестирование** | *Jest, Mocha, Chai* | 
-| **Доп. навыки** | *Деплой, настройка Nginx, Figma, RabbitMQ, BullMQ* | 
+| **Доп. навыки** | *Деплой, настройка Nginx, Figma, BullMQ, RabbitMQ* | 
 | **Английский** | *intermediate* | 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choodofire&layout=compact&theme=buefy&hide_border=true)
