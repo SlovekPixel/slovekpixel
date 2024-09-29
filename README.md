@@ -29,4 +29,4 @@
 | **Доп. навыки** | *Деплой, настройка Nginx, Figma, BullMQ, RabbitMQ* | 
 | **Английский** | *intermediate* | 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choodofire&layout=compact&theme=buefy&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slovekpixel&layout=compact&theme=buefy&hide_border=true)
