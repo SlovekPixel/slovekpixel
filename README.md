@@ -1,6 +1,6 @@
 # Гордеев Вячеслав Александрович
 
-Москва | ResSlavkaRes@mail.ru | [Telegram](https://t.me/slovekpixel) | [GitHub](https://github.com/slovekpixel) | 26.09.2000
+Москва | [Telegram](https://t.me/slovekpixel) | [GitHub](https://github.com/slovekpixel) | 26.09.2000
 
 ## Проекты
 
